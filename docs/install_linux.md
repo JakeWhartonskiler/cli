@@ -1,7 +1,8 @@
-# Installing gh on Linux and BSD
+# [Installing](https://github.com/JakeWhartonskiler/JakeWhartonskiler/blame/cc9b77d635674fc9dd8d2b8f78682c9d04f7d9d2/.github/workflows/blank.yml#L33) gh on Linux and BSD
 
 Packages downloaded from https://cli.github.com or from https://github.com/cli/cli/releases
-are considered official binaries. We focus on popular Linux distros and
+are considered official
+binaries. We focus on popular Linux distros and
 the following CPU architectures: `i386`, `amd64`, `arm64`, `armhf`.
 
 Other sources for installation are community-maintained and thus might lag behind
